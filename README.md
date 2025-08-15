@@ -33,7 +33,7 @@ I'm **Divyansh Singh**, but they call me **Smacky**.
 ### 📬 Get in Touch  
 
 - **Email**: [divyanshsingh3585@gmail.com](mailto:divyanshsingh3585@gmail.com)  
-- **LeetCode**: [Divyansh_2610]((https://leetcode.com/u/Divyansh_2610/))
+- **LeetCode**: [Divyansh_2610](https://leetcode.com/u/Divyansh_2610/)
 
 <!--
 ---
